@@ -1,4 +1,4 @@
-package com.sk.kmooc_msa.domain.model;
+package com.sk.kmooc_msa.account.domain.model;
 
 
 import lombok.AllArgsConstructor;
